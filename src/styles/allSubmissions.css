@@ -1,0 +1,18 @@
+.all-submissions > h1 {
+  text-align: center;
+}
+
+.all-submissions > .all-submissions-list {
+  padding: 25px;
+  margin: auto;
+  width: 853px;
+}
+
+.all-submissions > .all-submissions-list > .ag-theme-alpine {
+  width: 100%;
+}
+
+.all-submissions .all-submissions-button {
+  display: flex;
+  justify-content: center;
+}

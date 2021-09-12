@@ -1,0 +1,18 @@
+.taxes > h1 {
+  text-align: center;
+}
+
+.taxes > .taxes-list {
+  padding: 25px;
+  margin: auto;
+  width: 853px;
+}
+
+.taxes > .taxes-list > .ag-theme-alpine {
+  width: 100%;
+}
+
+.taxes .taxes-button {
+  display: flex;
+  justify-content: center;
+}
