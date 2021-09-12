@@ -1,5 +1,5 @@
 {
-  "name": "taxdown-coding-challenge",
+  "name": "react-typescript-redux-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.tsx",
@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/calamarico/taxdown-coding-challenge.git"
+    "url": "git+https://github.com/calamarico/react-typescript-redux-app.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/calamarico/taxdown-coding-challenge/issues"
+    "url": "https://github.com/calamarico/react-typescript-redux-app/issues"
   },
-  "homepage": "https://github.com/calamarico/taxdown-coding-challenge#readme",
+  "homepage": "https://github.com/calamarico/react-typescript-redux-app#readme",
   "devDependencies": {
     "@babel/cli": "^7.14.8",
     "@babel/core": "^7.15.0",
