@@ -1,0 +1,160 @@
+{
+  "users": [
+    {
+      "email": "daniel@taxdown.com",
+      "password": "$2a$10$HwUI7GqEePg/uYpYD7W7POaoCyAaq9AfmeeVEmzEwiPU/0UgLdcky",
+      "id": 1
+    },
+    {
+      "email": "federico@taxdown.com",
+      "password": "$2a$10$XwsS4DY107ZU7gKE.JA9x.M24Sjom2FiO5eoQUs.kuwb/isvSCd3S",
+      "id": 2
+    },
+    {
+      "email": "admin@taxdown.com",
+      "password": "$2a$10$h6d3amJ3weiNrKhiMET2g.Ogf.oHFIPty6SNHjTlXL4RIpbIX5n4y",
+      "id": 3
+    }
+  ],
+  "taxes": [
+    {
+      "id": "1",
+      "name": "Tax Season 2021",
+      "year": "2021"
+    },
+    {
+      "id": "2",
+      "name": "Tax Season 2020",
+      "year": "2020"
+    },
+    {
+      "id": "3",
+      "name": "Tax Season 2019",
+      "year": "2019"
+    },
+    {
+      "id": "4",
+      "name": "Tax Season 2018",
+      "year": "2018"
+    }
+  ],
+  "inputFields": [
+    {
+      "id": "surname",
+      "label": "Surname",
+      "placeholder": "Your last name",
+      "type": "text",
+      "maxLength": 1
+    },
+    {
+      "id": "name",
+      "label": "Name",
+      "placeholder": "Your first name",
+      "type": "text",
+      "maxLength": 20
+    },
+    {
+      "id": "age",
+      "label": "Age",
+      "placeholder": "Your age",
+      "type": "number",
+      "defaultValue": "18"
+    },
+    {
+      "id": "gender",
+      "label": "gender",
+      "placeholder": "Your gender",
+      "type": "singleselect",
+      "options": [
+        "Female",
+        "Male"
+      ]
+    }
+  ],
+  "submissions": [
+    {
+      "parentId": "1",
+      "name": "Bruce",
+      "surname": "Wayne",
+      "age": 22
+    },
+    {
+      "name": "dsa",
+      "surname": "sss",
+      "age": "11",
+      "parentId": "1",
+      "id": "aaa"
+    },
+    {
+      "name": "aad",
+      "surname": "sdsda",
+      "age": "11",
+      "parentId": "1",
+      "id": "id 3331b6ed80f32"
+    },
+    {
+      "name": "ffsfdsfds",
+      "surname": "cccc",
+      "age": "45",
+      "parentId": "2",
+      "id": "id8f06a563a68d8"
+    },
+    {
+      "name": "Daniel",
+      "surname": "Hernandez",
+      "age": "37",
+      "parentId": "2",
+      "id": "id6addedf308d3c"
+    },
+    {
+      "name": "Pepito",
+      "surname": "García",
+      "age": "56",
+      "parentId": "2",
+      "id": "id5a6f15c1f6e8b"
+    },
+    {
+      "name": "Mario",
+      "surname": "Perez",
+      "age": "12",
+      "parentId": "4",
+      "id": "id5aa81235c6589"
+    },
+    {
+      "name": "Emilio",
+      "surname": "Santana",
+      "age": "68",
+      "parentId": "1",
+      "id": "idc2fcda86eb4c7"
+    },
+    {
+      "name": "Morta",
+      "surname": "Delo",
+      "age": "28",
+      "parentId": "2",
+      "id": "id8dca48ce15dd6"
+    },
+    {
+      "name": "Perico",
+      "surname": "Palotes",
+      "age": "21",
+      "parentId": "4",
+      "id": "id918390c919795"
+    },
+    {
+      "name": "María",
+      "surname": "Jo",
+      "age": "43",
+      "parentId": "4",
+      "id": "idf14c31fb87a"
+    },
+    {
+      "surname": "p",
+      "name": "prueba",
+      "age": "18",
+      "gender": "Male",
+      "parentId": "1",
+      "id": "id56463ad6c7bf6"
+    }
+  ]
+}

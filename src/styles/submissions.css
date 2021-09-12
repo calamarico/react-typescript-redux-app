@@ -1,0 +1,18 @@
+.submissions > h1 {
+  text-align: center;
+}
+
+.submissions > .submissions-list {
+  padding: 25px;
+  margin: auto;
+  width: 652px;
+}
+
+.submissions > .submissions-list > .ag-theme-alpine {
+  width: 100%;
+}
+
+.submissions .submissions-button {
+  display: flex;
+  justify-content: center;
+}

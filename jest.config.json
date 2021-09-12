@@ -1,0 +1,7 @@
+{
+  "name": "taxdown-coding-challenge",
+  "moduleFileExtensions": ["js", "jsx", "tsx"],
+  "moduleNameMapper": {
+    "^.+\\.(css)$": "<rootDir>/test/config/CSSStub.js"
+  }
+}
